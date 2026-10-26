@@ -1,0 +1,7 @@
+streamlit>=1.35
+opencv-python-headless>=4.8,<4.11
+mediapipe==0.10.14
+numpy<2
+pandas>=2.0
+librosa>=0.10
+soundfile>=0.12
